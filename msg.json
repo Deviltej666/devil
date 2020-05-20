@@ -1,16 +1,19 @@
 [{
-        "msg": "Please stop"
+        "msg": "Scanning vulnerbilites.. click X to stop"
     },
 
     {
-        "msg": "Stop, I'm angry"
+        "msg": "Vulnerbilites found..."
     },
 
     {
-        "msg": "Stop now,."
+        "msg": "Exporting files....,."
     },
 
     {
-        "msg": "Ok,you want more then touch me again..."
-    }
+        "msg": "Thanks for ur cooperaton... "
+    },
+ {
+         "msg": "Hacking completed..💻✅📵.."
+ }
 ]
